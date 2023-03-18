@@ -23,6 +23,8 @@ Agora eu vou escrever um codigo HTML para testar:
 </html>
 ```
 
+##utilidades do arquivo README.md
+
 *descrição do seu projeto
 *funcionalidades do meu projeto
 *como meus usuarios devem usar
